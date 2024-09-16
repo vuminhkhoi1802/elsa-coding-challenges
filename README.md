@@ -12,7 +12,7 @@ Welcome to the Real-Time Quiz coding challenge! Your task is to create a technic
 
 - ### Backend Workflow
 
-![Backend Workflow](images/BackendWorkflow.png)
+![Backend Workflow](images/BackendWorkFlow.png)
 
 ## Detailed System Proposal
 
